@@ -71,3 +71,7 @@ More see
 > What  you  see  above  is  a declaration  for NumTurns,  not  a  definition.
 
 What "addressable entity" refers here is "instance" of static const data type. No instance, no address, i.e its only a declaration.
+
+## Item03 Use const whenever possible
+
+**Things to Remember**

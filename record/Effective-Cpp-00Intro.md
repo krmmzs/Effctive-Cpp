@@ -1,6 +1,4 @@
-# Effective cpp 00
-
-## Introduction
+# Effective cpp 00 Introduction
 
 ### Terminology
 
